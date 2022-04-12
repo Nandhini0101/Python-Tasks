@@ -1,4 +1,4 @@
-Task 7: Program to check Whether a String is Palindrome or not
+#Task 7: Program to check Whether a String is Palindrome or not
 
 string=input(("Enter the string:"))
 if(string==string[::-1]):
