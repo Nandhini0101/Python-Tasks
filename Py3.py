@@ -1,4 +1,4 @@
-Task 3: Program to check Prime Number
+#Task 3: Program to check Prime Number
 
 num = int(input("Enter a Number:"))
 if num > 1:
