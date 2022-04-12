@@ -1,4 +1,4 @@
-Task 2: Program to check Leap Year
+#Task 2: Program to check Leap Year
 
 year = int(input("Enter a year:"))
 if(year %400==0) and (year % 100 == 0):
