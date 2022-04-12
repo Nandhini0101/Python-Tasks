@@ -1,4 +1,4 @@
-Task 6: Program for Finding Sum of Natural Numbers Using Recursion
+#Task 6: Program for Finding Sum of Natural Numbers Using Recursion
 
 def recursion_sum(num):
     if num<=1:
