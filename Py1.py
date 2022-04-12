@@ -1,6 +1,5 @@
-Python Tasks (12/04/2022)
-
-Task 1: Program to check if a Number is Odd or Even
+#Python Tasks (12/04/2022)
+#Task 1: Program to check if a Number is Odd or Even
 
 number = int(input("Enter a number"))
 if(number %2)==0:
